@@ -23,3 +23,4 @@
     k = eliminar_duplicados(nums)
     print(f"Número de elementos únicos: {k}")
     print(f"Arreglo modificado (primeros {k} elementos únicos): {nums[:k]}")
+Prodesor, cualquier problema aviseme y lo soluciono.
